@@ -12,3 +12,4 @@ C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\net10.0\ref
 C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.pdb
 C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.genruntimeconfig.cache
 C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\net10.0\ref\NumberGuessGame.dll
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.sourcelink.json

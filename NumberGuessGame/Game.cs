@@ -100,7 +100,7 @@ namespace NumberGuessGame
         public bool AskPlayAgain()
         {
             Console.Write("Do you want to play again? (y/n): ");
-            var choice = Console.ReadLine().Trim().ToLower();
+            var choice = Console.ReadLine()!.Trim().ToLower();
             return choice == "y" || choice == "yes";
 
         }
