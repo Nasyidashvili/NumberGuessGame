@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\bin\Debug\net10.0\NumberGuessGame.exe
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\bin\Debug\net10.0\NumberGuessGame.deps.json
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\bin\Debug\net10.0\NumberGuessGame.runtimeconfig.json
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\bin\Debug\net10.0\NumberGuessGame.dll
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\bin\Debug\net10.0\NumberGuessGame.pdb
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.AssemblyInfo.cs
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.dll
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\net10.0\refint\NumberGuessGame.dll
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.pdb
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\net10.0\NumberGuessGame.genruntimeconfig.cache
+C:\Users\User\source\repos\NumberGuessGame\NumberGuessGame\obj\Debug\net10.0\ref\NumberGuessGame.dll
